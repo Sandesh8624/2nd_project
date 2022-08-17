@@ -1,0 +1,61 @@
+.productbox {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 50px;
+    gap: 10px;
+}
+
+body {
+    background-color: blacks;
+}
+
+.navbar2 {
+    background-color: #232f3e;
+    color: azure;
+    height: 45px;
+}
+
+.navbar2>ul>li>a {
+    color: azure;
+}
+
+a:hover {
+    border: 1px solid azure;
+}
+
+.product {
+    display: inline;
+    display: flex;
+    margin: 10px;
+    gap: 45px;
+}
+
+.amazon {
+    padding-top: 100px;
+}
+
+.back_to_top {
+    height: 45px;
+    background-color: #232f3e;
+    text-align: center;
+    font-size: 22;
+    color: azure;
+    text-decoration: none;
+}
+
+.ft1 {
+    background-color: #262d36;
+    color: #999;
+    text-decoration: none;
+}
+
+.ft1>ftcont>a {
+    color: aliceblue;
+}
+
+.plain1 {
+    background-color: #0F1111;
+    color: azure;
+    padding: 12px;
+    text-align: center;
+}
